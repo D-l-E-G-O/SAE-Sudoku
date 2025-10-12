@@ -24,9 +24,10 @@ Le solveur lit un fichier nommé "grille.txt" contenant la représentation de la
     ```bash
     git clone https://github.com/mon-utilisateur/sae-sudoku.git
     cd sae-sudoku
-2. Ouvrir le fichier **sujet_sudoku.asm** dans un IDE comme MARS, SPIM ou QTSPIM :
-    MARS : https://dpetersanderson.github.io/
-    SPIM : https://spimsimulator.sourceforge.net/
+    ```
+2. Ouvrir le fichier **sujet_sudoku.asm** dans un IDE comme MARS, SPIM ou QTSPIM : <br>
+    MARS : https://dpetersanderson.github.io/ <br>
+    SPIM : https://spimsimulator.sourceforge.net/ <br>
     QTSPIM : https://sourceforge.net/projects/spimsimulator/files/
 3. Définir la grille de sudoku :
     Modifier la grille dans la section .data
@@ -42,7 +43,7 @@ Le solveur lit un fichier nommé "grille.txt" contenant la représentation de la
        000419005
        000080079
        ```
-4. Exécuter le programme puis lire le résultat dans le fichier "solutions.txt" qui sera créé.
+5. Exécuter le programme puis lire le résultat dans le fichier "solutions.txt" qui sera créé.
 
 
 ## Fonctionnalités principales
