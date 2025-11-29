@@ -1,4 +1,4 @@
-# SAE Sudoku
+# SAE Sudoku ![Static Badge](https://img.shields.io/badge/Statut-Termin%C3%A9-red)
 
 Projet de début de 1ère année de **BUT Informatique** à l’**IUT d’Illkirch**.
 
